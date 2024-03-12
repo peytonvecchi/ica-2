@@ -40,6 +40,7 @@ header h2 {
 }
 
 .main .letter-of-css img {
+    display: none;
     padding-bottom: 8px;
 }
 
@@ -56,6 +57,7 @@ header h2 {
     margin-bottom: 10px;
     background-color: #4a7ff0;
     color: white;
+    display: none;
 }
 
 .main .toggle-button {
@@ -81,7 +83,7 @@ header h2 {
     background-color: #fff;
     cursor: pointer;
     font-size: 16pt;
-    width: 1000px;
+    width: 00px;
 }
 
 img {
